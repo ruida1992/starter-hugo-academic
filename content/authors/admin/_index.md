@@ -10,7 +10,7 @@ last_name: Da
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate, The University of Chicago Booth School of Business
+role: Ph.D. Candidate in Finance Econometrics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,9 +51,9 @@ social:
   #  label: Follow me on Twitter
   #  display:
   #    header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=vA9JfQIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
