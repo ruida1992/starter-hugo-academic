@@ -54,9 +54,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=vA9JfQIAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rui-da/
@@ -75,6 +75,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial
+I am a Ph.D. student in Financial Economics at The University of Chicago Booth School of Business.
+
+I am on the 2022-2023 academic job market.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
