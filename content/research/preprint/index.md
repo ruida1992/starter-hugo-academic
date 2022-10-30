@@ -1,7 +1,7 @@
 ---
 title: "Measuring Active Investing"
 authors:
-- admin
+#- admin
 date: "2022-10-10T00:00:00Z"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -21,8 +21,8 @@ tags:
 - Source Themes
 featured: false
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
@@ -49,7 +49,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
