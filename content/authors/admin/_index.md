@@ -79,4 +79,4 @@ I am a Ph.D. student in Financial Economics at The University of Chicago Booth S
 
 I am on the 2022-2023 academic job market.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Da-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
