@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vA9JfQIAAAAJ&sortby=pubdate&citation_for_view=vA9JfQIAAAAJ:qjMakFHDy7sC
+#url_pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vA9JfQIAAAAJ&sortby=pubdate&citation_for_view=vA9JfQIAAAAJ:qjMakFHDy7sC
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''
