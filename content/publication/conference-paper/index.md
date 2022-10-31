@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Link
-url: https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15593
+url: ‘https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15593’
 
 url_pdf: 'ECTA15593.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
