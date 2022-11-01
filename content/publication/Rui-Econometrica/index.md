@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Abstract
-url: publication/rui-econometric
+url: http://example.org
 
 url_pdf: 'ECTA15593.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
