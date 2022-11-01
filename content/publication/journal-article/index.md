@@ -1,7 +1,7 @@
 ---
 title: "The Statistical Limit of Arbitrage"
 authors:
-- With Stefan Nagel
+- with Stefan Nagel
 - Dacheng Xiu
 
 #author_notes:
