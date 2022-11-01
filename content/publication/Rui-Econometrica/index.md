@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Abstract
-url: publication/rui-econometrica/
+url: ‘https://polite-dolphin-8b4710.netlify.app/publication/rui-econometrica/’
 
 url_pdf: 'ECTA15593.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
