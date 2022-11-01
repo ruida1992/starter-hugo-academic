@@ -31,7 +31,7 @@ publication: in *Econometrica*
 abstract: We conduct inference on volatility with noisy high-frequency data. We assume the observed transaction price follows a continuous-time Itô-semimartingale, contaminated by a discrete-time moving-average noise process associated with the arrival of trades. We estimate volatility, defined as the quadratic variation of the semimartingale, by maximizing the likelihood of a misspecified moving-average model, with its order selected based on an information criterion. Our inference is uniformly valid over a large class of noise processes whose magnitude and dependence structure vary with sample size. We show that the convergence rate of our estimator dominates n1/4 as noise vanishes, and is determined by the selected order of noise dependence when noise is sufficiently small. Our implementation guarantees positive estimates in finite samples.
 
 # Summary. An optional shortened abstract.
-summary: We conduct inference on volatility with noisy high-frequency data. We assume the observed transaction price follows a continuous-time Itô-semimartingale, contaminated by a discrete-time moving-average noise process associated with the arrival of trades. We estimate volatility, defined as the quadratic variation of the semimartingale, by maximizing the likelihood of a misspecified moving-average model, with its order selected based on an information criterion. Our inference is uniformly valid over a large class of noise processes whose magnitude and dependence structure vary with sample size. We show that the convergence rate of our estimator dominates n1/4 as noise vanishes, and is determined by the selected order of noise dependence when noise is sufficiently small. Our implementation guarantees positive estimates in finite samples.
+#summary: We conduct inference on volatility with noisy high-frequency data. We assume the observed transaction price follows a continuous-time Itô-#semimartingale, contaminated by a discrete-time moving-average noise process associated with the arrival of trades. We estimate volatility, defined as #the quadratic variation of the semimartingale, by maximizing the likelihood of a misspecified moving-average model, with its order selected based on an #information criterion. Our inference is uniformly valid over a large class of noise processes whose magnitude and dependence structure vary with sample #size. We show that the convergence rate of our estimator dominates n1/4 as noise vanishes, and is determined by the selected order of noise dependence #when noise is sufficiently small. Our implementation guarantees positive estimates in finite samples.
 
 tags: []
 
@@ -39,9 +39,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-#links:
-#- name: Custom Link
-#url: ‘https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15593’
+links:
+- name: Abstract
+url: ‘publication/rui-econometrica/’
 
 url_pdf: 'ECTA15593.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
