@@ -1,7 +1,7 @@
 ---
 title: "Measuring Active Investing"
 authors:
-#- admin
+- admin
 date: "2022-10-10T00:00:00Z"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -52,6 +52,4 @@ projects:
 #slides: example
 ---
 
-{{% callout note %}}
-{{% /callout %}}
 
