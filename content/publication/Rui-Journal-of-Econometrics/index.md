@@ -19,14 +19,14 @@ publication: "revision requested by *Journal of Econometrics*"
 abstract: We propose a semiparametric approach to disentangling the autocovariance of equity returns at high frequency. We assume the observed price consists of an efficient component that follows a nonparametric continuous-time Itˆo-semimartingale, along with a market microstructure component that follows a discrete-time moving-average model. Our quasi-likelihood procedure relies on a misspecified moving-average model selected by information criteria. We establish the model-selection consistency, provide a central limit theory on autocovariance parameters, and show their consistency uniformly over a large class of models that allow for an arbitrary noise magnitude and a flexible dependence structure. We also provide a quadratic representation of the likelihood estimator, which sheds light on its connection with nonparametric kernel estimators. Our simulation evidence suggests that our estimator outperforms the nonparametric alternatives particularly when noise magnitude is small. We apply this estimator to S&P 1500 index constituents, and find that in recent years the microstructure friction has become smaller but existed in 5-minute returns, particularly in small caps, and that the average duration of autocorrelations for large caps has shrunk considerably to merely 10 seconds.
 
 # Summary. An optional shortened abstract.
-summary: We propose a semiparametric approach to disentangling the autocovariance of equity returns at high frequency.
+#summary: We propose a semiparametric approach to disentangling the autocovariance of equity returns at high frequency.
 
 tags:
 - Source Themes
 featured: false
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: Custom Link
+  url: https://polite-dolphin-8b4710.netlify.app/publication/rui-journal-of-econometrics/
 url_pdf: https://www.dropbox.com/s/giagldv2or53j6g/IntradayReturn.pdf?dl=0
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
