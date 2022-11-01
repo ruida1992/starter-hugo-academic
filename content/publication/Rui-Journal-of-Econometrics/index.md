@@ -25,7 +25,7 @@ tags:
 - Source Themes
 featured: false
 links:
-- name: Custom Link
+- name: Abstract
   url: https://polite-dolphin-8b4710.netlify.app/publication/rui-journal-of-econometrics/
 url_pdf: https://www.dropbox.com/s/giagldv2or53j6g/IntradayReturn.pdf?dl=0
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
