@@ -23,7 +23,20 @@ publishDate: "2022-09-01T00:00:00Z"
 # publication: Technical Report, Chicago Booth
 publication_short: ""
 
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, #mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim #condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: When alphas are weak and rare, and arbitrageurs have to learn about alphas from historical
+data, there is a gap between Sharpe ratio that is feasible for them to achieve and the infeasible
+Sharpe ratio that could be obtained with perfect knowledge of parameters in the return
+generating process. This statistical limit to arbitrage widens the bounds within which alphas
+can survive in equilibrium relative to the arbitrage pricing theory (APT) in which arbitrageurs
+are endowed with perfect knowledge. We derive the optimal Sharpe ratio achievable by any
+feasible arbitrage strategy, and illustrate in a simple model how this Sharpe ratio varies with
+the strength and sparsity of alpha signals, which characterize the difficulty of arbitrageurs’
+learning problem. Furthermore, we design an “all-weather” arbitrage strategy that achieves
+this optimal Sharpe ratio regardless of the conditions of alpha signals. Our empirical analysis
+of equity returns shows that this optimal strategy, along with other feasible strategies based
+on multiple-testing, LASSO, and Ridge methods, achieve a moderately low Sharpe ratio out
+of sample, in spite of a considerably higher infeasible Sharpe ratio, consistent with absence of
+feasible near-arbitrage opportunities and relevance of statistical limits to arbitrage.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
