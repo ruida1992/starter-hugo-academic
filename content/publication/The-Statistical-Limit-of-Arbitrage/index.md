@@ -32,9 +32,12 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+# Custom links (uncomment lines below)
+links:
+- name: Abstract
+  url: https://rui-da.netlify.app/publication/the-statistical-limit-of-arbitrage/
+
+url_pdf: 'The-statistical-limit-of-arbitrage.pdf'
 #url_pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vA9JfQIAAAAJ&sortby=pubdate&citation_for_view=vA9JfQIAAAAJ:qjMakFHDy7sC
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
