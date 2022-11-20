@@ -43,7 +43,7 @@ links:
 - name: Abstract
   url: https://polite-dolphin-8b4710.netlify.app/publication/rui-econometrica/
 
-#url_pdf: 'ECTA15593.pdf'
+url_pdf: 'APCF.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
