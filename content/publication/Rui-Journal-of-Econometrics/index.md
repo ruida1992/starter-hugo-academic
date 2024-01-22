@@ -1,7 +1,8 @@
 ---
 title: "Disentangling Autocorrelated Intraday Returns"
 authors:
-- with Dacheng Xiu
+- Rui Da
+- Dacheng Xiu
 date: "2021-05-10T00:00:00Z"
 doi: ""
 # Schedule page publish date (NOT publication's date).
