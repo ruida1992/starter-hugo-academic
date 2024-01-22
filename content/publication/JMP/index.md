@@ -64,7 +64,7 @@ featured: true
 #- name: Abstract
 #  url: https://polite-dolphin-8b4710.netlify.app/publication/rui-econometrica/
 
-url_pdf: 'research/market_efficiency_with_many_investors/APCF.pdf'
+url_pdf: 'publication/JMP/APCF.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
