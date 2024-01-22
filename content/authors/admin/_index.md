@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. student in Econometrics and Statistics at The University of Chicago Booth School of Business.
+I am a Ph.D. student in at The University of Chicago Booth School of Business.
 
 I am on the 2022-2023 academic job market.
 
