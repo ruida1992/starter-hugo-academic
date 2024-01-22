@@ -28,7 +28,28 @@ publication_types: ['3']
 #publication: in *Econometrica*
 #publication_short: In *ICW*
 
-abstract: We conduct inference on volatility with noisy high-frequency data. We assume the observed transaction price follows a conti.
+abstract: Modern financial markets contain many investors. In this context, we study
+the role of information in investor decision-making,
+and the informational efficiency and liquidity of the market.
+An equilibrium is characterized in closed-form for
+a continuous-time economy with many market participants and imperfect competition,
+in which investors
+receive private information with varying quality, and are heterogeneous in their misperception of the information quality.  
+In equilibrium, investor heterogeneity in their misperception
+generates return predictability by
+investors' trading, and trading of different investors follows a simple factor structure with
+weak factors.
+To conduct empirical analysis that builds on these equilibrium implications,
+we develop a new big-data econometric method that utilizes the factor structure
+to accommodate the high-dimensionality of these implications.
+Applying the framework to price and institution holding data
+of the US stock market, we document 
+that individual institution's trading with impotent predictive power
+can collectively generate significant return predictability
+that persists for about a quarter.
+We estimate dynamic price impact of around $0.25$ at
+quarterly frequency, a moderate misperception of institutions on their information quality, 
+and institutions' contributions to the informational efficiency of the market.
 
 # Summary. An optional shortened abstract.
 #summary: We conduct inference on volatility with noisy high-frequency data. We assume the observed transaction price follows a continuous-time Itô-#semimartingale, contaminated by a discrete-time moving-average noise process associated with the arrival of trades. We estimate volatility, defined as #the quadratic variation of the semimartingale, by maximizing the likelihood of a misspecified moving-average model, with its order selected based on an #information criterion. Our inference is uniformly valid over a large class of noise processes whose magnitude and dependence structure vary with sample #size. We show that the convergence rate of our estimator dominates n1/4 as noise vanishes, and is determined by the selected order of noise dependence #when noise is sufficiently small. Our implementation guarantees positive estimates in finite samples.
