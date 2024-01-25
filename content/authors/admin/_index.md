@@ -22,9 +22,10 @@ bio: My research interests include financial economics, econometrics and machine
 
 # Interests to show in About widget
 interests:
-  - Financial Economics 
-  - Econometrics 
+  - Financial Economics
   - Machine Learning in Finance
+  - Financial Econometrics 
+  
 
 # Education to show in About widget
 #education:
@@ -77,8 +78,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. student in at The University of Chicago Booth School of Business.
+Rui Da joins the Kelley School of Business in 2023 as an acting assistant professor in the finance department after finishing his PhD in Business from the University of Chicago Booth School of Business. His research focuses on asset pricing, machine learning, and financial econometrics. His work has been published in Econometrica.
 
-I am on the 2022-2023 academic job market.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Da-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Da-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
