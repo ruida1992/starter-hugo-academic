@@ -80,4 +80,4 @@ highlight_name: true
 
 Rui Da joins the Kelley School of Business in 2023 as an acting assistant professor in the finance department after finishing his PhD in Business from the University of Chicago Booth School of Business. His research focuses on asset pricing, machine learning, and financial econometrics. His work has been published in Econometrica.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Da-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# Download my {{< staticref "uploads/Da-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
