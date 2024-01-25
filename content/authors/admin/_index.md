@@ -10,12 +10,12 @@ last_name: Da
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+# role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: University of Chicago Booth School of Business
-    url: https://www.chicagobooth.edu/
+# organizations:
+#  - name: University of Chicago Booth School of Business
+#    url: https://www.chicagobooth.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include financial economics, econometrics and machine learning in finance.
