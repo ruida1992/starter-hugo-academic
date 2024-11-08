@@ -78,6 +78,6 @@ email: ''
 highlight_name: true
 ---
 
-Rui Da joins Indiana University Kelley School of Business in 2023 as an Acting Assistant Professor in the finance department after finishing his PhD in Business from the University of Chicago Booth School of Business. His research focuses on asset pricing, machine learning and financial econometrics. His work has been published in Econometrica.
+Rui Da joins Indiana University Kelley School of Business in 2023 and is an Assistant Professor in the finance department, after finishing his PhD in Business from the University of Chicago Booth School of Business. His research focuses on asset pricing, machine learning and financial econometrics. His work has been published in Econometrica.
 
 
