@@ -40,8 +40,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 #links:
-#- name: Abstract
-#  url: https://polite-dolphin-8b4710.netlify.app/publication/rui-econometrica/
+- name: Abstract
+  url: https://polite-dolphin-8b4710.netlify.app/publication/APCF/
 
 url_pdf: 'publication/JMP/APCF.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
