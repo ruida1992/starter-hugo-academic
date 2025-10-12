@@ -15,7 +15,7 @@ publishDate: "2021-05-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "revision and resubmission requested by *Journal of Econometrics*"
+publication: "R&R requested by *Journal of Econometrics*"
 #publication_short: ""
 
 abstract: We propose a semiparametric approach to disentangling the autocovariance of equity returns at high frequency. We assume the observed price consists of an efficient component that follows a nonparametric continuous-time Itˆo-semimartingale, along with a market microstructure component that follows a discrete-time moving-average model. Our quasi-likelihood procedure relies on a misspecified moving-average model selected by information criteria. We establish the model-selection consistency, provide a central limit theory on autocovariance parameters, and show their consistency uniformly over a large class of models that allow for an arbitrary noise magnitude and a flexible dependence structure. We also provide a quadratic representation of the likelihood estimator, which sheds light on its connection with nonparametric kernel estimators. Our simulation evidence suggests that our estimator outperforms the nonparametric alternatives particularly when noise magnitude is small. We apply this estimator to S&P 1500 index constituents, and find that in recent years the microstructure friction has become smaller but existed in 5-minute returns, particularly in small caps, and that the average duration of autocorrelations for large caps has shrunk considerably to merely 10 seconds.
