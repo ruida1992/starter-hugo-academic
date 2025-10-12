@@ -21,7 +21,7 @@ publishDate: "2024-10-15T00:00:00Z"
 #publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-# publication: Technical Report, Chicago Booth
+publication: "revision and resubmission requested by *Journal of Finance*"
 publication_short: ""
 
 abstract: We investigate the economic consequences of statistical learning for arbitrage pricing in a high-dimensional setting. Arbitrageurs learn about alphas from historical data. When alphas are weak and rare, estimation errors hinder arbitrageurs—even those employing optimal machine learning techniques—from fully exploiting all true pricing errors. This statistical limit to arbitrage widens the equilibrium bounds of alphas beyond what traditional arbitrage pricing theory predicts, leading to a significant divergence between the feasible Sharpe ratio achievable by arbitrageurs and the unattainable theoretical maximum under perfect knowledge of alphas.
