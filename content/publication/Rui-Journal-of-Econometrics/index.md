@@ -28,7 +28,7 @@ tags:
 featured: false
 links:
 - name: Abstract
-  url: https://rui-da.netlify.app/publication/rui-journal-of-econometrics/
+  url: https://rui-da.netlify.app/publication/Disentangle/
   
 url_pdf: https://www.dropbox.com/s/giagldv2or53j6g/IntradayReturn.pdf?dl=0
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
