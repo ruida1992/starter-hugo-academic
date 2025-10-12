@@ -22,7 +22,7 @@ bio: My research interests include financial economics, econometrics and machine
 
 # Interests to show in About widget
 interests:
-  - Financial Economics
+  - Asset Pricing
   - Machine Learning in Finance
   - Financial Econometrics 
   
