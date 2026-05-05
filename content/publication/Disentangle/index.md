@@ -3,7 +3,7 @@ title: "Disentangling Autocorrelated Intraday Returns"
 authors:
 - Rui Da
 - Dacheng Xiu
-date: "2025-07-01T00:00:00Z"
+date: "2026-05-05T00:00:00Z"
 doi: ""
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-05-01T00:00:00Z"
@@ -18,7 +18,10 @@ publication_types: ["2"]
 publication: "R&R, *Journal of Econometrics*"
 #publication_short: ""
 
-abstract: We propose a semiparametric approach to disentangling the autocovariance of equity returns at high frequency. We assume the observed price consists of an efficient component that follows a nonparametric continuous-time Itˆo-semimartingale, along with a market microstructure component that follows a discrete-time moving-average model. Our quasi-likelihood procedure relies on a misspecified moving-average model selected by information criteria. We establish the model-selection consistency, provide a central limit theory on autocovariance parameters, and show their consistency uniformly over a large class of models that allow for an arbitrary noise magnitude and a flexible dependence structure. We also provide a quadratic representation of the likelihood estimator, which sheds light on its connection with nonparametric kernel estimators. Our simulation evidence suggests that our estimator outperforms the nonparametric alternatives particularly when noise magnitude is small. We apply this estimator to S&P 1500 index constituents, and find that in recent years the microstructure friction has become smaller but existed in 5-minute returns, particularly in small caps, and that the average duration of autocorrelations for large caps has shrunk considerably to merely 10 seconds.
+abstract: We propose a semiparametric framework to disentangle the autocovariance structure of high-frequency equity returns. The observed price is modeled as the sum of an efficient component, evolving as a nonparametric continuous-time Itˆo-semimartingale, and a market microstructure component governed by a discrete-time moving-average process.
+Our estimation strategy is based on a quasi-likelihood approach that employs a misspecified moving-average model selected via information criteria. We establish a pointwise central limit theorem for the resulting autocovariance estimator, as well as uniform consistency over a broad class of models allowing for arbitrary noise magnitude and flexible dependence structures.
+Simulation results demonstrate that our estimator outperforms leading nonparametric alternatives, particularly in regimes with small noise magnitude, and highlight that the performance of all estimators is critically driven by the level of noise.
+Applying our methodology, alongside existing nonparametric approaches, to S&P 1500 constituents from 1996 to 2024, we find that noise magnitude is persistently small throughout the sample. This empirical finding has important implications for the measurement of noise magnitude, noise persistence, and volatility.
 
 # Summary. An optional shortened abstract.
 #summary: We propose a semiparametric approach to disentangling the autocovariance of equity returns at high frequency.
